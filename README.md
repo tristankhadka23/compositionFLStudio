@@ -78,62 +78,48 @@ https://user-images.githubusercontent.com/93773589/145547911-5c0f3d00-58ff-4c7f-
 
 
 
-- Ajouter un patern de drums de type bass dans le séquenceur
+- Ajouter un patern de drums de type bass dans le Piano virtuel
 
 https://user-images.githubusercontent.com/93773589/145548250-313b5694-01be-4dfa-9cc7-64caf38c38fc.mp4
 
 
 
-- Ajouter un patern de drums de type snare dans le séquenceur
+- Ajouter un patern de drums de type bass2 dans le Piano virtuel
 
 https://user-images.githubusercontent.com/93773589/145548282-64a1943a-a29d-4195-b3d7-b8408e9113d5.mp4
 
 
 
-- Ajouter un patern de drums de type snare dans le séquenceur
-
-
-
-https://user-images.githubusercontent.com/93773589/145548313-8e23b41e-a270-44e5-9c43-5b44fc68ce78.mp4
-
-
-
-- Ajouter un patern de drums de type snare dans le séquenceur
+- Ajouter un patern de drums de type pad 1 dans le Piano virtuel
 
 
 https://user-images.githubusercontent.com/93773589/145548331-f400d705-9a27-4445-88b7-a729f824fc34.mp4
 
 
 
-
-- Ajouter un patern de drums de type snare dans le séquenceur
-
-
+- Ajouter un patern de drums de type pad 2 dans le Piano virtuel
 
 https://user-images.githubusercontent.com/93773589/145548343-3b42e9bd-e169-4dcc-b954-57d7889191ed.mp4
 
 
 
-- Ajouter un patern de drums de type snare dans le séquenceur
+
+
+- Ajouter un patern de drums de type Lead 1 dans le Piano virtuel
 
 
 
 https://user-images.githubusercontent.com/93773589/145548380-a155df28-7739-49f2-84ac-730e85a258d2.mp4
 
 
-- Ajouter un patern de drums de type snare dans le séquenceur
+
+
+- Ajouter un patern de drums de type Lead 2 dans le Piano virtuel
+
 
 
 https://user-images.githubusercontent.com/93773589/145548429-1b71aab1-2874-4282-b70f-3128e611ca45.mp4
 
-
-
-
-- Ajouter un patern de drums de type snare dans le séquenceur
-
-
-
-https://user-images.githubusercontent.com/93773589/145548455-2f01efa4-60d0-4f20-b584-8609e6208794.mp4
 
 ## Rendu final
 
