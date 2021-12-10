@@ -1,4 +1,4 @@
-# Présentation d'une de mes compositions FL Studio
+# Présentation d'une de ma composition FL Studio
 ![logo de fl studio](MEDIA/330px-FL-Studio-12-Logo.png)
 
 photo prise de [wikipédia](https://fr.wikipedia.org/wiki/FL_Studio)
