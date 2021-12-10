@@ -4,6 +4,9 @@
 photo prise de [wikipédia](https://fr.wikipedia.org/wiki/FL_Studio)
 
 ## Les bases de FL Studio
+
+FL Studio est un logiciel de production de musique créé en 1997 par Didier Dambrin pour la firme belge Image-Line.
+
 ### ce logiciel comprend:  
 
 - Un éditeur audio 
